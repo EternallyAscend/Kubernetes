@@ -1,0 +1,13 @@
+Name:         high-token-xcrjt
+Namespace:    kube-system
+Labels:       <none>
+Annotations:  kubernetes.io/service-account.name: high
+              kubernetes.io/service-account.uid: 95639c50-03b6-48ba-89cb-7321984915d7
+
+Type:  kubernetes.io/service-account-token
+
+Data
+====
+ca.crt:     1025 bytes
+namespace:  11 bytes
+token:      eyJhbGciOiJSUzI1NiIsImtpZCI6Inpicm42eUJ3SktCclZGY3NsQWtrVi1pNk5HTkdVUzROa1pZakNnRzh2cnMifQ.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJrdWJlLXN5c3RlbSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VjcmV0Lm5hbWUiOiJoaWdoLXRva2VuLXhjcmp0Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9zZXJ2aWNlLWFjY291bnQubmFtZSI6ImhpZ2giLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC51aWQiOiI5NTYzOWM1MC0wM2I2LTQ4YmEtODljYi03MzIxOTg0OTE1ZDciLCJzdWIiOiJzeXN0ZW06c2VydmljZWFjY291bnQ6a3ViZS1zeXN0ZW06aGlnaCJ9.oFD1NVBO5EpCKb0OEHzh1HX1Q06domHb8-Lg2-8OJ2E62-aB8qPH4eYGu0AdjlH4TurZmYGoUpmKymLMr3i-4E7ZrUTQGlxS2P7uJdLlxnTSU3cDbr6ySUsMc7ELDlIwB2xqtiebGDnvS40ms2oeKojLZHMU7I-b46q1e-h6VCEFRU1ssM4-yR6f_D0sbB02o6xxjqEtbMXp8ysOz4K9apVq_NMv-UDiOVngTKwiHbZ9rvUrlJ0Wpwfe9b1ScBXvD6QjUeM91cV3BDjfNWBtAY7UWz-iM2dQAeQQBj_BMeizRhlI8IcXtKALIny8k98ZajOWqcfdIDMc3H1kbHiDcQ
